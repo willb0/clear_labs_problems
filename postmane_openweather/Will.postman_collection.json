@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "4dc259d0-f143-4add-96cc-ae580ae040f1",
+		"name": "Will",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "open_weather_request",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"id": "8fb6b57c-5195-49bf-a058-064c5ac0ce0c",
+						"exec": [
+							"pm.test(\"Latitude is 51.51 and Lon is -0.13\", () => {",
+							"    const responseJson = pm.response.json()",
+							"    pm.expect(responseJson.coord.lat).to.eql(51.51)",
+							"    pm.expect(responseJson.coord.lon).to.eql(-.13)",
+							"});",
+							"pm.test(\"temp value is in between temp max and temp min\", () => {",
+							"    const responseJson = pm.response.json()",
+							"    pm.expect(responseJson.main.temp).to.be.gt(responseJson.main.temp_min).and.to.be.lt(responseJson.main.temp_max)",
+							"});",
+							"",
+							"pm.test(\"Name is London\", () => {",
+							"    const responseJson = pm.response.json()",
+							"    pm.expect(responseJson.name).to.eql(\"London\")",
+							"});",
+							"pm.test(\"Code is 200 OK\", () => {",
+							"    pm.response.to.have.status(200)",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22",
+					"protocol": "https",
+					"host": [
+						"samples",
+						"openweathermap",
+						"org"
+					],
+					"path": [
+						"data",
+						"2.5",
+						"weather"
+					],
+					"query": [
+						{
+							"key": "q",
+							"value": "London,uk"
+						},
+						{
+							"key": "appid",
+							"value": "b6907d289e10d714a6e88b30761fae22"
+						}
+					]
+				},
+				"description": "My tests and the json returned "
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
