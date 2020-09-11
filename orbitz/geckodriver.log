@@ -1,0 +1,235 @@
+1599781335838	geckodriver	INFO	Listening on 127.0.0.1:46821
+1599781335844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCNxjH8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599781338632	Marionette	INFO	Listening on port 34889
+1599781338663	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:1227:3
+
+1599781343620	Marionette	INFO	Stopped listening on port 34889
+1599781359229	geckodriver	INFO	Listening on 127.0.0.1:58295
+1599781359234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDD5ULv"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599781361517	Marionette	INFO	Listening on port 39169
+1599781361541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599781363144	Marionette	INFO	Stopped listening on port 39169
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599782181245	geckodriver	INFO	Listening on 127.0.0.1:58489
+1599782181250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilescWiiI"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782183984	Marionette	INFO	Listening on port 40301
+1599782184059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599782187704	Marionette	INFO	Stopped listening on port 40301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599782228259	geckodriver	INFO	Listening on 127.0.0.1:60777
+1599782228264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelUPaLz"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782230956	Marionette	INFO	Listening on port 44489
+1599782230981	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599782311379	geckodriver	INFO	Listening on 127.0.0.1:42719
+1599782311384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesu5Xby"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782314067	Marionette	INFO	Listening on port 44915
+1599782314091	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 15: NS_ERROR_NOT_INITIALIZED: 
+1599782389449	geckodriver	INFO	Listening on 127.0.0.1:35707
+1599782389455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3WWo7w"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782392148	Marionette	INFO	Listening on port 32841
+1599782392165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599782425040	Marionette	INFO	Stopped listening on port 32841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599782446755	geckodriver	INFO	Listening on 127.0.0.1:55795
+1599782446762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenNfkBR"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782449372	Marionette	INFO	Listening on port 34769
+1599782449469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599782487692	Marionette	INFO	Stopped listening on port 34769
+1599782500126	geckodriver	INFO	Listening on 127.0.0.1:52241
+1599782500132	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2xYJA5"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782502992	Marionette	INFO	Listening on port 34113
+1599782503044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599782539150	Marionette	INFO	Stopped listening on port 34113
+1599782547048	geckodriver	INFO	Listening on 127.0.0.1:36157
+1599782547053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJtxmVB"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782549825	Marionette	INFO	Listening on port 33913
+1599782549866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599782562276	Marionette	INFO	Stopped listening on port 33913
+1599782576742	geckodriver	INFO	Listening on 127.0.0.1:53545
+1599782576748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF6gQPe"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782579440	Marionette	INFO	Listening on port 43609
+1599782579463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599782636114	Marionette	INFO	Stopped listening on port 43609
+1599782875488	geckodriver	INFO	Listening on 127.0.0.1:57235
+1599782875493	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1q1OS2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782878117	Marionette	INFO	Listening on port 41695
+1599782878200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1599782929514	geckodriver	INFO	Listening on 127.0.0.1:48077
+1599782929519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecl3zB1"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782932295	Marionette	INFO	Listening on port 34559
+1599782932340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1599782979106	geckodriver	INFO	Listening on 127.0.0.1:41945
+1599782979112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuzxB3w"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599782981832	Marionette	INFO	Listening on port 46459
+1599782981928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1599783011780	Marionette	INFO	Stopped listening on port 44915
+1599783097750	geckodriver	INFO	Listening on 127.0.0.1:34319
+1599783097756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefGMzd8"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599783100738	Marionette	INFO	Listening on port 38027
+1599783100790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599783137962	Marionette	INFO	Stopped listening on port 38027
+1599783174658	geckodriver	INFO	Listening on 127.0.0.1:39181
+1599783174663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiur7MJ"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599783177491	Marionette	INFO	Listening on port 40073
+1599783177590	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1599783574931	geckodriver	INFO	Listening on 127.0.0.1:58741
+1599783574936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuMXHDF"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599783577555	Marionette	INFO	Listening on port 35005
+1599783577646	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599783617230	Marionette	INFO	Stopped listening on port 35005
+console.error: "Exception while opening the toolbox" "Error: Connection closed, pending request to server0.conn0.child2/frameTarget1, type reconfigure failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreconfigure@resource://devtools/client/fronts/targets/browsing-context.js:107:34\nopen/<@resource://devtools/client/framework/toolbox.js:967:27\npermitUnload@resource://gre/actors/BrowserElementParent.jsm:224:19\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1696:43\nCanCloseWindow@chrome://browser/content/browser.js:7819:46\ncanClose@chrome://browser/content/browser.js:6266:12\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3523:20\ndespatch@chrome://marionette/content/server.js:305:40\nexecute@chrome://marionette/content/server.js:275:16\nonPacket/<@chrome://marionette/content/server.js:248:20\nonPacket@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n" (new Error("Connection closed, pending request to server0.conn0.child2/frameTarget1, type reconfigure failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:256:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nreconfigure@resource://devtools/client/fronts/targets/browsing-context.js:107:34\nopen/<@resource://devtools/client/framework/toolbox.js:967:27\npermitUnload@resource://gre/actors/BrowserElementParent.jsm:224:19\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1696:43\nCanCloseWindow@chrome://browser/content/browser.js:7819:46\ncanClose@chrome://browser/content/browser.js:6266:12\nGeckoDriver.prototype.quit@chrome://marionette/content/driver.js:3523:20\ndespatch@chrome://marionette/content/server.js:305:40\nexecute@chrome://marionette/content/server.js:275:16\nonPacket/<@chrome://marionette/content/server.js:248:20\nonPacket@chrome://marionette/content/server.js:249:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:501:20\n", "resource://devtools/shared/protocol/Front.js", 77))
+destroy@resource://devtools/shared/protocol/Front.js:77:23
+_destroyTarget@resource://devtools/client/fronts/targets/target-mixin.js:600:13
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1599783620809	geckodriver	INFO	Listening on 127.0.0.1:58901
+1599783620814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVPvKwt"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599783623370	Marionette	INFO	Listening on port 33661
+1599783623436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1599783676329	geckodriver	INFO	Listening on 127.0.0.1:44603
+1599783676334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHXZf6w"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599783679103	Marionette	INFO	Listening on port 34281
+1599783679152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599783711445	Marionette	INFO	Stopped listening on port 34281
+1599783738244	geckodriver	INFO	Listening on 127.0.0.1:34701
+1599783738249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilergb05R"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599783741152	Marionette	INFO	Listening on port 34417
+1599783741182	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+1599783785624	Marionette	INFO	Stopped listening on port 34417
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599785935896	geckodriver	INFO	Listening on 127.0.0.1:50101
+1599785935901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoMryx9"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599785938764	Marionette	INFO	Listening on port 34971
+1599785938817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599785971993	Marionette	INFO	Stopped listening on port 34971
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
