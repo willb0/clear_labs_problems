@@ -62,7 +62,7 @@
 						}
 					]
 				},
-				"description": "My tests and the json returned "
+				"description": "My request/tests"
 			},
 			"response": []
 		}
