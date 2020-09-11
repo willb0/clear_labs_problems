@@ -53,5 +53,4 @@ try:
 
 
 finally:
-    time.sleep(30)
     driver.quit()
