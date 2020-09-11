@@ -1,0 +1,4 @@
+python3
+venv
+googletrans
+selenium

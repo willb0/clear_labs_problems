@@ -233,3 +233,39 @@ IPDL protocol error: Handler returned error code!
 
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
+JavaScript error: https://vap.expedia.com/vacservice/public/code/script?_=1599782232091, line 40: TypeError: this.dispatch is not a function
+1599866863314	geckodriver	INFO	Listening on 127.0.0.1:48867
+1599866864332	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledHF1Eh"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599866867093	Marionette	INFO	Listening on port 37403
+1599866867166	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599866887443	Marionette	INFO	Stopped listening on port 37403
+1599866992380	geckodriver	INFO	Listening on 127.0.0.1:50487
+1599866992386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletnvgkj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599866994959	Marionette	INFO	Listening on port 42351
+1599866994994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://b.travel-assets.com/datacapture/2/js/analytics-core-bundle-min.js, line 24: Error: 4101 (The given Experiment details was null)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1599867089738	geckodriver	INFO	Listening on 127.0.0.1:47993
+1599867089744	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileb3vaBj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599867092448	Marionette	INFO	Listening on port 42231
+1599867092456	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1599867173456	geckodriver	INFO	Listening on 127.0.0.1:34253
+1599867173462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYwuNeC"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599867176170	Marionette	INFO	Listening on port 34911
+1599867176270	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -23,6 +23,7 @@ with open('./'+args.filename,'r') as f:
         print("word: %s \t translated_word: %s" % (word,translated_word))
         dumpie[1].update({word:translated_word})
     json.dump(dumpie,open('dump.json','w+'))
+    print("dumped to dump.json")
 
 
 
